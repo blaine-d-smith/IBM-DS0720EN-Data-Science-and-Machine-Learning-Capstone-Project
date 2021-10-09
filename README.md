@@ -1,11 +1,16 @@
 # IBM Data Science and Machine Learning Capstone Project
 
-**Topic:** Analyzing SpaceX Falcon 9 launches
+**Topic:** Analyzing SpaceX Falcon 9 Launches
 
 
 * Data Collection
-* Web Scraping
+  * API
+  * Web Scraping
 * Data Wrangling
 * Exploratory Data Analysis
-* Data Visualization
-* Machine Learning
+  * SQL
+  * Visualization
+* Interactive Visual Analytics
+  * Folium
+  * Dash
+* Machine Learning Prediction
